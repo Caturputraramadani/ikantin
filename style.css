@@ -1,0 +1,29 @@
+  .bg-primary {
+      background-color: #87805E !important;
+  }
+
+  .jumbotron {
+      background-color: #87805E !important;
+      border-radius: 5px;
+  }
+
+  .btn-primary {
+      background-color: #87805E !important;
+      border-color: #87805E !important;
+  }
+
+  .nav-item {
+      color: #fff;
+  }
+
+
+  body{
+    background-image: url("../header_bg.jpg");
+  }
+
+  .modal-header{
+    background-color: #87805E !important;
+  }
+  h3{
+    color:#694E4E ;
+  }
